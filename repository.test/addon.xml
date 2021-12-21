@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.test" name="repo test" version="2.0" provider-name="repo test">
+<addon id="repository.test" name="repo test" version="3.0" provider-name="repo test">
     <extension point="xbmc.addon.repository" name="Example Repository">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/cabelw1985/repo/main/repo/zips/addons.xml</info>
@@ -8,7 +8,7 @@
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>REPO_NAME_HERE</summary>
+        <summary>RhalloooooooRE</summary>
         <description>DESCRIPTION OF YOUR REPO HERE</description>
         <disclaimer></disclaimer>
         <platform>all</platform>
