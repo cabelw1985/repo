@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.program.kus-allinone-wizard" name="[COLORdeepskyblue]KUS[/COLOR] AllInOne Wizard" version="8.0.0" provider-name="SGK">
+<addon id="plugin.program.kus-allinone-wizard" name="[COLORdeepskyblue]KUS[/COLOR] AllInOne Wizard" version="9.0.0" provider-name="SGK">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.requests" />
@@ -27,7 +27,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.youtube" name="YouTube" version="8.0.0" provider-name="anxdpanic, bromix">
+<addon id="plugin.video.youtube" name="YouTube" version="9.0.0" provider-name="anxdpanic, bromix">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.six" version="1.11.0"/>
